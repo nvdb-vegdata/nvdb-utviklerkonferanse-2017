@@ -9,17 +9,22 @@
 Programmet er delt i to deler – en generell del med fokus på oversikt og overordnet presenasjon av løsningene før lunsj og en mer detaljert del med fokus på detaljer etter lunsj.
 
 
+
 ## 1000 Velkommen
 >Per Andersen, Leder av Nasjonal VegdataBank – NVDB
 
 ## 1010-1100	Oversikt over Åpne Vegdataporteføljen
 >Terje Brasethvik, NVDB & Geodataseksjonen, Vegdirektoratet
 
-* Overordnet presentasjon over APIene og prinsippene bak.
+* [Overordnet presentasjon over APIene og prinsippene bak.](presentasjoner\Åpne Vegdata Utviklerdag - Inroduksjon - Oversikt.pdf)
+  
 * Annonseringer
   * Oppdatert dokumentasjon på GitHub Pages
+    * http://api.vegdata.no
+    * http://apiskriv.vegdata.no
   * Etablering av Referansegrupper for API LES og SKRIV
   * Utfastingsdato for API LES V1
+    * [Oversikt over endringer fra V1 til V2](presentasjoner\Åpne Vegdata Utviklerdag - Fra API Les V1 til V2-.pdf)
 
 
 ## 1100-1200	Demonstrasjoner / diskusjoner om  bruk
@@ -38,7 +43,7 @@ Programmet er delt i to deler – en generell del med fokus på oversikt og over
 > Espen Hjertø og Jostein Munz, Kantega
 
 * Demonstrasjoner
-* Detaljert presentasjon
+* [Detaljert presentasjon](presentasjoner\Datafangst API.pptx)
 * Spørsmål og svar
 * Påmelding til referansegruppe
 
@@ -46,7 +51,7 @@ Programmet er delt i to deler – en generell del med fokus på oversikt og over
 > Marvin Bredal Lillehaug, Kantega
 
 * Demonstrasjoner
-* Detaljert presentasjon
+* [Detaljert presentasjon](presentasjoner\Åpne Vegdata Utviklerdag - Detaljer API LES V2.pdf)
 * Spørsmål og svar
 * Påmelding til referansegruppe
 
